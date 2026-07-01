@@ -47,7 +47,6 @@ This project analyzes employee attrition data using Python to identify the key f
 * Employee Attrition Dataset
 * README.md
 
-## 👨‍💻 Author
 ---
 
 ## 📊 Key Visualizations
@@ -74,7 +73,10 @@ The Research & Development and Sales departments showed the highest employee att
 
 ![Attrition by Department](department_attrition.png)
 
-Mahmoud Gomaa
+---
+
+## 👨‍💻 Author
+---
 
 Mahmoud Gomaa
 
