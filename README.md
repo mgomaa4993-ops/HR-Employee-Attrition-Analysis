@@ -48,7 +48,28 @@ This project analyzes employee attrition data using Python to identify the key f
 * README.md
 
 ## 👨‍💻 Author
+---
 
+## 📊 Key Visualizations
+
+### Average Monthly Income by Attrition
+Employees who left the company had a significantly lower average monthly income compared to employees who stayed.
+
+![Average Monthly Income by Attrition](income_attrition.png)
+
+---
+
+### Work-Life Balance vs Attrition
+Work-life balance appears to have a strong impact on employee retention and turnover.
+
+![Work-Life Balance vs Attrition](worklife_balance.png)
+
+---
+
+### Attrition by Department
+The Research & Development and Sales departments showed the highest employee attrition rates.
+
+![Attrition by Department](department_attrition.png)
 Mahmoud Gomaa
 
 Aspiring Data Analyst | Python | Data Analysis | Data Visualization
