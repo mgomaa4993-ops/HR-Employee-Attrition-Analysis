@@ -1,4 +1,4 @@
-# Employee Attrition Analysis Using Python
+# HR Employee Attrition Analysis Using Python
 
 ## 📌 Project Overview
 
